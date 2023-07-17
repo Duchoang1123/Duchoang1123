@@ -28,4 +28,6 @@ I'm always eager to learn more and looking for challenging projects and roles th
 
 - Email: hoangquangduc2311@gmail.com
 - LinkedIn: [linkedin.com/in/hoangquangduc](https://www.linkedin.com/in/hoangquangduc/)
-%- Twitter: 
+<!--
+- Twitter: 
+-->
