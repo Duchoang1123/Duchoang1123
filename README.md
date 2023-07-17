@@ -17,10 +17,11 @@ When I'm not crunching numbers or diving into the latest data science tools, I e
 
 ## Projects
 
-1. **Project 1:** 
-2. **Project 2:** 
-3. **Project 3:** 
-
+1. **Project 1:** Collecting Credit-card purchase data and Analysize the consumption pattern
+<!--
+3. **Project 2:** 
+4. **Project 3:** 
+-->
 
 I'm always eager to learn more and looking for challenging projects and roles that will allow me to grow. If you have any questions or simply would like to connect, don't hesitate to reach out!
 
