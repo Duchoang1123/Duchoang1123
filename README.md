@@ -18,6 +18,7 @@ When I'm not crunching numbers or diving into the latest data science tools, I e
 ## Projects
 
 1. **Project 1:** Collecting Credit-card purchase data and Analysize the consumption pattern
+2. **Project 2:** Part-time workers in Japan, Freelancers, and Full-time workers | Some insights into the Japanese work system
 <!--
 3. **Project 2:** 
 4. **Project 3:** 
