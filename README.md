@@ -14,7 +14,7 @@ When I'm not crunching numbers or diving into the latest data science tools, I e
 - **Programming Languages:** Python, R, SQL, C++
 - **Data Analysis:** Predictive Modeling, Data Visualization, Statistical Analysis
 - **Computer Science Knowledge:** Machine Learning (Transformers, Classification, Regression, Different Losses, Different Optimizers)
-- **Experience:** Real-time computer graphics, BRDF
+- **Experiences:** Real-time computer graphics, BRDF
 
 ## Projects
 
