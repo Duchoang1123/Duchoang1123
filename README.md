@@ -14,11 +14,12 @@ When I'm not crunching numbers or diving into the latest data science tools, I e
 - **Programming Languages:** Python, R, SQL, C++
 - **Data Analysis:** Predictive Modeling, Data Visualization, Statistical Analysis
 - **Computer Science Knowledge:** Machine Learning (Transformers, Classification, Regression, Different Losses, Different Optimizers)
+- **Experience:** Real-time computer graphics, BRDF
 
 ## Projects
 
 1. **Project 1:** Collecting Credit-card purchase data and Analysize the consumption pattern
-2. **Project 2:** Part-time workers in Japan, Freelancers, and Full-time workers | Some insights into the Japanese work system
+2. **Project 2:** Building a race tracer | Race-tracing & rasterization
 <!--
 3. **Project 2:** 
 4. **Project 3:** 
